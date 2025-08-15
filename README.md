@@ -26,10 +26,11 @@
 ## Контакты
 - ✉️ Email: **nyaganman81@gmail.com**
 - Telegram/Kwork: **@BAD_0x**
-- 
+ 
 | Set-Content -Encoding UTF8 README.md
 
 git add README.md
 git commit -m "docs(profile): add full profile readme"
 git push
+
 
