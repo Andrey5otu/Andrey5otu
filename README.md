@@ -1,36 +1,48 @@
+<div align="center">
 
-# 0xBAD — Python Backend • Автоматизация • Telegram Bots • RAG
+# 0xBAD
 
-Привет! Я делаю b2b‑решения на Python: боты и интеграции, автоматизацию процессов, RAG‑ассистентов, микросервисы и CI/CD под прод.
+**BUILD AND DESTROY**
 
-**Стек:** Python 3.12 · FastAPI · aiogram · SQLAlchemy · PostgreSQL · Docker · PyCharm · n8n · OpenRouter/LLM  
-**DevOps/Безопасность:** .env/секреты · hardening · GitHub Actions · релизы · мониторинг
+### AI Engineering · Business Automation · Full-Cycle Development
 
-## Топ‑проекты
-- 🔔 **BirthdayCCI** — Telegram‑бот с поздравлениями, напоминаниями и аналитикой (Moyklass), .env/безопасность, инструкции по деплою.
-- 📚 **EORA Assistant** — RAG‑ассистент (строгие цитаты), веб‑чат, API, Docker, тесты.
-- 🔐 **Auth Service** — FastAPI + PostgreSQL + JWT, docker‑compose, валидация входа, готово к прод.
-- 🛒 **DiscountSheriff / Ozon** — сервис проверки скидок Ozon, лимиты, многомагазинность, идея монетизации.
-- 🧾 **WB API Script** — получение поставок/обработка по ТЗ, логи/ошибки, коэффициенты.
-- 🤝 **CollabHub (TG Mini App)** — платформа «исполнители ↔ заказчики» с безопасностью общения внутри, анти‑чаннел эскейп.
-- 🧱 **Frappe + Dadata** — Doctype Client, подсказки, кнопка «адрес по ИНН», деплой на WSL.
-- 📊 **Moyklass Reports** — выгрузка отчётов (финансы/посещаемость/абонементы), отдельная БД для аналитики, автосрезы.
+*Find the problem. Break down complexity. Build what works.*
 
-> Больше — в закреплённых репозиториях. Открыт к фрилансу и продуктовым задачам.
+</div>
 
-## Чем помогаю бизнесу
-- CRM‑интеграции, боты, автопостинг, отчётность и веб‑хуки
-- RAG‑ассистенты и корпоративный поиск по базе знаний
-- Продакшн‑деплой: Docker, CI/CD, релизы, наблюдаемость
+---
 
-## Контакты
-- ✉️ Email: **nyaganman81@gmail.com**
-- Telegram/Kwork: **@BAD_0x**
- 
-| Set-Content -Encoding UTF8 README.md
+## About
 
-git add README.md
-git commit -m "docs(profile): add full profile readme"
-git push
+I build and maintain practical software for business: from problem discovery and architecture through development, deployment, and ongoing support.
 
+My focus is connecting systems, automating repetitive processes, and integrating AI into real workflows.
 
+## What I build
+
+| Direction | Focus |
+| --- | --- |
+| **AI engineering** | LLM integrations, RAG assistants, MCP tools |
+| **Business automation** | Workflow automation, bots, marketplace and business-system integrations |
+| **Software engineering** | Python backends, APIs, data services |
+| **Delivery & operations** | Docker, CI/CD, server deployment, monitoring and maintenance |
+
+## Toolkit
+
+`Python` · `FastAPI` · `aiogram` · `SQLAlchemy` · `PostgreSQL` · `Docker` · `GitHub Actions` · `n8n` · `LLM APIs`
+
+I use Claude, Codex and GPT as development tools alongside engineering judgment, testing and operational responsibility.
+
+## Work
+
+Much of my production work lives in **private repositories**. Public descriptions and independent demos will appear here when appropriate.
+
+**Build And Destroy** is my approach: understand what is broken, remove unnecessary complexity, and build better systems.
+
+---
+
+<div align="center">
+
+**0xBAD** · [GitHub](https://github.com/Andrey5otu)
+
+</div>
