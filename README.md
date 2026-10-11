@@ -1,8 +1,8 @@
 <div align="center">
 
-# 0xBAD
+<img src="./assets/0xBAD_GitHub_Hero.png" alt="0xBAD — Build And Destroy | Fractal" width="100%" />
 
-### BUILD AND DESTROY
+<br />
 
 **AI ENGINEERING · BUSINESS AUTOMATION · FULL-CYCLE DEVELOPMENT**
 
@@ -54,6 +54,12 @@ Docker, CI/CD, servers, monitoring and long-term maintenance.
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+<img src="./assets/0xBAD_GitHub_Second_Banner.png" alt="0xBAD — Break what does not work. Build what matters." width="100%" />
+
+</div>
 
 ### 03 / TOOLKIT
 
