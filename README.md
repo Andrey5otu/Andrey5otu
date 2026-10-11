@@ -1,8 +1,6 @@
 <div align="center">
 
-# 0xBAD
-
-**BUILD AND DESTROY**
+<img src="./assets/0xbad-fractal-banner.svg" alt="0xBAD — Build And Destroy" width="100%" />
 
 ### AI Engineering · Business Automation · Full-Cycle Development
 
