@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="./assets/0xbad-fractal-banner.svg" alt="0xBAD — Build And Destroy" width="100%" />
+# 0xBAD
 
-### AI Engineering · Business Automation · Full-Cycle Development
+### BUILD AND DESTROY
+
+**AI ENGINEERING · BUSINESS AUTOMATION · FULL-CYCLE DEVELOPMENT**
 
 *Find the problem. Break down complexity. Build what works.*
 
@@ -10,37 +12,67 @@
 
 ---
 
-## About
+### 01 / ABOUT
 
-I build and maintain practical software for business: from problem discovery and architecture through development, deployment, and ongoing support.
+I design, build, deploy and maintain business software — from identifying the original problem to keeping the system running in production.
 
-My focus is connecting systems, automating repetitive processes, and integrating AI into real workflows.
+My focus: AI integrations, workflow automation, backend systems and the infrastructure that connects them.
 
-## What I build
+### 02 / EXPERTISE
 
-| Direction | Focus |
-| --- | --- |
-| **AI engineering** | LLM integrations, RAG assistants, MCP tools |
-| **Business automation** | Workflow automation, bots, marketplace and business-system integrations |
-| **Software engineering** | Python backends, APIs, data services |
-| **Delivery & operations** | Docker, CI/CD, server deployment, monitoring and maintenance |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Toolkit
+**AI / INTELLIGENCE**
+
+LLM integrations, RAG assistants, MCP tools, AI-powered workflows.
+
+</td>
+<td width="50%" valign="top">
+
+**AUTOMATION / INTEGRATIONS**
+
+Business workflows, bots, marketplace tooling and CRM/ERP integrations.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**ENGINEERING / SYSTEMS**
+
+Python, FastAPI, APIs, PostgreSQL and backend services.
+
+</td>
+<td valign="top">
+
+**DEPLOY / OPERATE**
+
+Docker, CI/CD, servers, monitoring and long-term maintenance.
+
+</td>
+</tr>
+</table>
+
+### 03 / TOOLKIT
 
 `Python` · `FastAPI` · `aiogram` · `SQLAlchemy` · `PostgreSQL` · `Docker` · `GitHub Actions` · `n8n` · `LLM APIs`
 
-I use Claude, Codex and GPT as development tools alongside engineering judgment, testing and operational responsibility.
+AI-assisted development: Claude · Codex · GPT.
 
-## Work
+### 04 / WORK
 
-Much of my production work lives in **private repositories**. Public descriptions and independent demos will appear here when appropriate.
+Most production work lives in **private repositories**. Public case studies and independent demonstrations will be added when appropriate.
 
-**Build And Destroy** is my approach: understand what is broken, remove unnecessary complexity, and build better systems.
+**Discover → Design → Build → Deploy → Maintain**
 
 ---
 
 <div align="center">
 
-**0xBAD** · [GitHub](https://github.com/Andrey5otu)
+**0xBAD · BUILD AND DESTROY**
+
+*Understand what is broken. Remove unnecessary complexity. Build something better.*
 
 </div>
